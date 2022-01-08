@@ -4,7 +4,7 @@ margin-left: 0px;
 margin-right: 0px;
 margin-bottom: 0px;
 position: relative;
-padding-top: 3%
+padding-top: 3%;
 }
 body {
 background-color: #e0ebe8;
@@ -35,7 +35,16 @@ h3 {
 a {
   color: #1b9473;
 }
+hr{
+
+  align: center;
+  border: none;
+  width: 5%;
+    border-bottom: 6px dotted;
+    borde
+}
 .middle-container {
+  padding-top: 2%;
 background-color: white;}
 
 
