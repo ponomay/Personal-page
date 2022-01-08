@@ -1,0 +1,56 @@
+.top_container {background-color: #e0ebe8;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+position: relative;
+padding-top: 3%
+}
+body {
+background-color: #e0ebe8;
+margin: 0px;
+text-align: center;
+font-family: sans-serif;
+
+}
+h1 {
+margin: 50px auto 0 auto;
+ font-family: 'Sacramento', cursive;
+ font-size: 480%;
+ color: #064f3b ;
+ line-height: 2;
+}
+h2 {
+ font-family: sans-serif;
+ font-size: 180%;
+  color: #064f3b;
+  font-weight: normal;
+
+}
+h3 {
+  font-family: serif;
+  font-size: 150%;
+  color:  #11999E;
+}
+.middle-container {
+background-color: white;}
+
+
+.b_cloud {
+  position: absolute;
+  top: auto;
+  left: 25%;
+}
+.t_cloud {
+  position: relative;
+  left: 20%;
+}
+.puh{
+  max-width:30%;
+  max-height:30%;
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.skills {text-align: center;}
+.skill-row {text-align: left;}
