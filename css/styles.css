@@ -64,3 +64,6 @@ background-color: white;}
 float: bottom;}
 .skills {text-align: center;}
 .skill-row {text-align: left;}
+.btn {
+  padding-bottom: 3%;
+}
